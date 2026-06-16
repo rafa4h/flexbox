@@ -1,0 +1,35 @@
+#cartoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grupo{
+    width: 150px;
+    height: 150px;
+}
+
+#cartao1{
+    background-color: red;
+    height: 100px;
+}
+
+#cartao2{
+    background-color: yellow;
+    height: 250px;
+}
+
+#cartao3{
+    background-color: green;
+        height: 100px;
+}
+
+#cartao4{
+    background-color: blue;
+    height: 250px;
+}
+
+#cartao5{
+    background-color: orange;
+    height: 100px;
+}
